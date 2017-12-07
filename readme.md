@@ -1,5 +1,6 @@
 # Skyscanner challenge
 
+
 ## Motivation
 
 A decision to create collaborative tool for people to discuss and select
